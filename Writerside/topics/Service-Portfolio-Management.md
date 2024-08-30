@@ -8,7 +8,6 @@ Das Service Portfolio kann ebenfalls auch Services von dritten beinhalten. Sofer
 
 Das Service-Portfolio umfasst 3 Kategorien:
 
-![alt text](image-5.png)
 
 **Service Pipeline:** Bietet einen Überblick über mögliche Zukünftige Services.
 

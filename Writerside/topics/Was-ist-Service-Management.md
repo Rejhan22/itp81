@@ -1,0 +1,3 @@
+# Was ist Service Management
+
+Unter Service Management versteht man spezielle organisatorische Fähigkeiten, die es ermöglichen, einem Kunden nutzen beziehungsweise einen Wertschöpfungsbeitrag in Form  von Services zu liefern. Diese Fähigkeiten äussern sich in Form von Funktionen und Prozessen, also einer bestimmten internen Organisation, die die Lieferung hochqualitativer Wertschöpfungssteigen des Services erst ermöglicht. Diese Deifinition von Service Management ist auf IT Service Management übertragbar. Service Management drückt dadurch die Leistungsfähigkeit einer IT-Organisation aus. Die Umwandlung von Ressource in werterzeugende Services, stellt die Grundlage für Service Management dar.

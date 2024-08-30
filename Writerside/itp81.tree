@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="itp81"
+                 name="ITP81"
+                 start-page="ITP81.topic">
+
+    <toc-element topic="ITP81.topic"/>
+    <toc-element topic="Lernreflexion.md">
+        <toc-element topic="Erste-Woche.md"/>
+        <toc-element topic="Zweite-Woche.md"/>
+        <toc-element topic="19-08-2024.md"/>
+        <toc-element topic="26-30-August.md"/>
+    </toc-element>
+    <toc-element topic="ITIL-V4.md">
+        <toc-element topic="Einführung.md">
+            <toc-element topic="wichtige-Begriffe-und-Definitionen.md"/>
+            <toc-element topic="Vier-Dimensionen-des-Service-Management.md"/>
+            <toc-element topic="Service-Value-System.md"/>
+        </toc-element>
+        <toc-element topic="Schlüsselkonzepte-der-Wertschöpfung-mit-Services.md">
+            <toc-element topic="Wert.md"/>
+            <toc-element topic="Servicebeziehungen.md"/>
+        </toc-element>
+        <toc-element topic="Die-sieben-Grundprinzipien-von-ITIL-4.md">
+            <toc-element topic="Prinzip-1-Wertorientierung.md"/>
+            <toc-element topic="Prinzip-2-Dort-beginnen-wo-man-steht.md"/>
+            <toc-element topic="Prinzip-3-Iterative-Weiterentwicklung-mit-Feedback.md"/>
+            <toc-element topic="Prinzip-4-Zusammenarbeit-und-Transparenz-fördern.md"/>
+            <toc-element topic="Ganzheitlich-denken-und-arbeiten.md"/>
+            <toc-element topic="Auf-Einfachheit-und-Praktikabilität-achten.md"/>
+            <toc-element topic="Prinzip-7-Optimieren-und-automatisieren.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Interkulturelle-Schulung.md">
+        <toc-element topic="Gesprächvorbereitung.md"/>
+        <toc-element topic="Führungsstil.md"/>
+        <toc-element topic="Zeitverständnis.md"/>
+        <toc-element topic="Warum-sagen-die-indischen-Kolleg-innen-immer-nur-Ja.md"/>
+        <toc-element topic="Sachorientierte-vs-beziehungsortientierte-Kommunikation.md"/>
+        <toc-element topic="Kulturdimensionen.md"/>
+        <toc-element topic="Die-Prägekraft-von-Kultur.md"/>
+        <toc-element topic="Essverhalten.md"/>
+        <toc-element topic="Die-indische-Küche.md"/>
+        <toc-element topic="Werte.md"/>
+        <toc-element topic="Charaktereigenschaften.md"/>
+        <toc-element topic="Wesenszüge-Eigenschaften.md"/>
+        <toc-element topic="Die-Familie.md"/>
+        <toc-element topic="Fleisch.md"/>
+        <toc-element topic="Typische-Getränke.md"/>
+    </toc-element>
+    <toc-element topic="ITIL.md">
+        <toc-element topic="ITIL-V3.md">
+            <toc-element topic="Grundlagen-von-ITIL.md">
+                <toc-element topic="ITIL-Bereiche.md"/>
+                <toc-element topic="Anwendungszweck.md"/>
+                <toc-element topic="ITIL-Vorteile.md"/>
+                <toc-element topic="Fazit.md"/>
+            </toc-element>
+            <toc-element topic="Service-Design.md">
+                <toc-element topic="Fünf-Aspekte-des-Service-Designs.md"/>
+                <toc-element topic="Design-Coordination.md"/>
+                <toc-element topic="Service-Level-Management.md"/>
+            </toc-element>
+            <toc-element topic="Strategy-Management-for-IT-Services.md"/>
+            <toc-element topic="Service-Strategy.md">
+                <toc-element topic="Assets.md"/>
+                <toc-element topic="Phase-Service-Strategy.md"/>
+                <toc-element topic="Hauptaktivitäten.md"/>
+                <toc-element topic="Typen-von-Service-Providern.md"/>
+                <toc-element topic="Die-4-Ps-von-Mintzberg.md"/>
+            </toc-element>
+            <toc-element topic="Funktionen-Rollen-und-Prozesse.md">
+                <toc-element topic="Funktion.md"/>
+                <toc-element topic="Rolle.md"/>
+                <toc-element topic="Prozess.md">
+                    <toc-element topic="Raci-Matrix.md"/>
+                    <toc-element topic="Service-Portfolio-Management.md"/>
+                    <toc-element topic="Business-Relationship-Management.md"/>
+                    <toc-element topic="Demand-Management.md"/>
+                    <toc-element topic="Financial-management.md"/>
+                    <toc-element topic="Business-Case.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Service-Management-und-Services.md">
+                <toc-element topic="Was-ist-Service-Management.md"/>
+                <toc-element topic="Service-in-ITIL.md"/>
+                <toc-element topic="Nutzen-Wert-eines-Services.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Clippy.md"/>
+</instance-profile>

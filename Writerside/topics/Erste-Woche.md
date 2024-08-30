@@ -1,0 +1,16 @@
+# 05-09. August
+
+## 05.08.2024
+Eine Vorstellungsrunde gemacht. Heute haben wir vor allem Cherwell angeschaut, wir haben zwei Videos, welche jeweils knapp 1h gingen, angeschaut. Wir haben ebenfalls einwenig mit den Videos zu Clippy angefangen. Der erste Tag in der neuen Abteilung hat mir sehr gut gefallen, wir konnten heute Niko ein wenig besser kennenlernen und ebenfalls auch die Abteilung. Der erste Tag hat mir sehr gut gefallen, ich konnte mich schnell an die neue Umgebung gewöhnen und mich auch gut einleben. Niko hat uns ebenfalls alles gut erklärt und es war eigentlich alles schnell klar.
+
+## 06.08.2024
+Heute haben wir weiter mit den Videos zur Clippy knowledge base gemacht. Ich finde es ist ein wenig mühsam, alles nur mit den Videos zu lernen, da es nach längerer Zeit schwer werden kann zuzuhören. Aber ich konnte mir eigentlich alles gut merken, da ich zu beiden Themen nebenbei noch eine Dokumentation schreiben. Niko hat uns auch noch Zeit gegeben, das Cherwell nochmals ein wenig auszutesten und kennenzulernen. So geht es recht gut und ich komme auch gut voran. Heute konnte ich alles zur Clippy Knowledge Base abschliessen und ich kann morgen mit der Interkulturellen Schulung anfangen. Heute bin ich zufrieden mit meiner geleisteten Arbeit, ich war konzentriert und ich bin mit allen Aufträgen fertig geworden.
+
+## 07.08.2024
+Heute habe ich mit dem Video zur interkulturellen Schulung angefangen, ich habe es sehr spannend gefunden die Indische Kultur kennenzulernen und es hat mir auch spass gemacht. Ich wurde nicht mit dem ganzen Video fertig, aber die wichtigsten Sachen habe ich gesehen und konnte diese auch Dokumentieren und festhalten. Am Nachmittag haben wir das Video besprochen und uns ausgetauscht. Nach dem Austausch haben wir mit der ITIL-Schulung angefangen. Ich kam heute nicht sehr weit, da es sehr kompliziert ist und ich vieles Dokumentieren muss. Heute bin ich jedoch sehr zufrieden mit meiner geleisteten Arbeit, ich war den ganzen Tag konzentriert und ich bin gut vorwärtsgekommen.
+
+## 08.08.2024
+Heute haben wir mit der ITIL-Schulung weitergemacht. Heute habe ich es besser verstanden, aber ich muss einige Videos und abschnitte mehrmals anschauen und mir sehr viel Notizen machen. Ich bin jedoch nicht der einzige dem es so ergeht, die meisten haben einige Probleme mit dem Verständnis. Ich liege aber noch gut in der Zeit, da wir recht viel Zeit bekommen. Heute bin ich erneut zufrieden mit meiner Arbeit, obwohl es sehr mühsam ist und man langsam vorwärts kommt bin ich dran geblieben und ich habe konzentriert gearbeitet und ich habe mich nicht ablenken lassen. Ich habe ebenfalls eine gute Dokumentation schreiben können.
+
+## 09.08.2024
+Heute haben wir die Ivanti-App genauer angeschaut. Ich habe es sehr gut verstanden und ich konnte das Quiz auch einfach und ohne mühe lösen. Ich bin heute erneut sehr zufrieden mit meiner Arbeit, da ich das Tool genauer kennenlernen konnte und ich erneut sehr konzentriert gearbeitet habe. Mein Fazit zu dieser Woche ist ebenfalls, dass es viel besser funktioniert mit der Konzentration und ich meine Arbeitsqualität auch recht verbessert habe. Damit bin ich sehr zufrieden und ich werde so weiter machen und mir weiterhin sehr viel mühe geben.

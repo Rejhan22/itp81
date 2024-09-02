@@ -1,7 +1,7 @@
 # Prinzip 7: Optimieren und automatisieren
 
-Prinzip 7
-:
+Prinzip 7:
+
 <tabs>
 <tab title="Automatisieren">
 Organisationen müssen den Wert, welcher durch ihre personellen und technischen Ressourcen 
